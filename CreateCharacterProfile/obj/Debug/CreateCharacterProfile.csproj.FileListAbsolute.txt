@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\bin\Debug\CreateCharacterProfile.exe.config
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\bin\Debug\CreateCharacterProfile.exe
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\bin\Debug\CreateCharacterProfile.pdb
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\obj\Debug\CreateCharacterProfile.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\obj\Debug\CreateCharacterProfile.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\obj\Debug\CreateCharacterProfile.exe
+C:\Users\pc\Desktop\Bilgeadam\Çalışmalar\CreateCharacterProfile\CreateCharacterProfile\obj\Debug\CreateCharacterProfile.pdb
